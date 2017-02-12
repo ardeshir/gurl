@@ -1,1 +1,1 @@
-./gurl <url>
+./gurl http://univrs.io 
